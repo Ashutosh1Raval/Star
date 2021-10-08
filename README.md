@@ -42,10 +42,10 @@ python -m pip install -r .\requirements.txt
 
 *Example Use 1 
 ```
-python spider.py --url http://example.com/etc
+python star.py --url http://example.com/etc
 ```
 
 * *Example Use 1 
 ```
-python spider.py -u http://example.com/etc
+python star.py -u http://example.com/etc
 ```
